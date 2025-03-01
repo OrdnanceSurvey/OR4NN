@@ -1,1 +1,2 @@
 
+The main functionality of OR4NN are in OR4NN-PreProcess-v0_1 and OR4NN-Query-v_1. Radig2_v0_1 is for a String-based grid indexing function used in OR4NN. Other notebooks are provided as example of how to perform pre-processing and query (data paths are removed for security reason). Due to IP issue, we are unable to provide any data but you may generated a partition grid using the Java grid generator class and generate some randome data easily.
