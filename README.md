@@ -1,4 +1,4 @@
-# OR4NN
+# OR4NN - Object Range for Scalable K-NN Join
 
 OR4NN is a conceputal framework for Efficient Scalable KNN Query on Metric Data on distributed/Parallel Computing Platform. This repo contains an experimental implementation of OR4NN for 2D geosptial data.
 
